@@ -1,25 +1,41 @@
-# Data Cleaning & Visualization Project
+# Data Cleaning & Machine Learning Project
 
 ## 📌 Project Overview
-This project focuses on cleaning and visualizing a raw student performance dataset using Python.
+This project focuses on data cleaning, visualization, and predictive modeling using machine learning on a student performance dataset.
 
-## 🔧 Tools & Libraries Used
+## 🔧 Technologies Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
+- Scikit-learn
 
-## 📊 Key Tasks Performed
+## 📊 Data Cleaning Tasks
 - Handled missing values
 - Removed duplicate rows
-- Processed and cleaned data
-- Visualized insights using graphs and charts
+- Converted categorical data into numerical format
 
-## 📁 Dataset
-Student Performance Dataset
+## 🤖 Machine Learning Model
+- Decision Tree Classifier
 
-## 🎯 Outcome
-Learned data preprocessing, visualization, and storytelling with data.
+## 📈 Features Used
+- Study Hours Per Week
+- Attendance Rate
+- Previous Score
 
-## 🚀 Author
-Kani Mozhi
+## 🎯 Model Accuracy
+- Accuracy Achieved: 75%
+
+## 📊 Visualizations
+- Confusion Matrix Heatmap
+
+## 📁 Files Included
+- project.py
+- ml_project.py
+- student_performance.csv
+
+## 🚀 Outcome
+Learned data preprocessing, visualization, supervised learning, model training, prediction, and evaluation.
+
+## 👩‍💻 Author
+KANIMOZHI A
