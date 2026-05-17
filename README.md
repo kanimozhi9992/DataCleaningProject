@@ -1,7 +1,7 @@
-# Data Cleaning & Machine Learning Project
+# Data Cleaning, EDA & Machine Learning Project
 
 ## 📌 Project Overview
-This project focuses on data cleaning, visualization, and predictive modeling using machine learning on a student performance dataset.
+This project focuses on data cleaning, exploratory data analysis (EDA), visualization, and predictive modeling using machine learning on a student performance dataset.
 
 ## 🔧 Technologies Used
 - Python
@@ -10,32 +10,63 @@ This project focuses on data cleaning, visualization, and predictive modeling us
 - Seaborn
 - Scikit-learn
 
-## 📊 Data Cleaning Tasks
+---
+
+# 📊 Data Cleaning & Visualization
+
+## Tasks Performed
 - Handled missing values
 - Removed duplicate rows
-- Converted categorical data into numerical format
+- Processed raw dataset
+- Visualized insights
 
-## 🤖 Machine Learning Model
+---
+
+# 📈 Exploratory Data Analysis (EDA)
+
+## EDA Tasks
+- Statistical summaries
+- Correlation analysis
+- Heatmap visualization
+- Trend identification
+
+## Insights Found
+- Higher study hours improve scores
+- Attendance positively affects performance
+- Previous scores strongly influence final scores
+
+---
+
+# 🤖 Machine Learning Project
+
+## Algorithm Used
 - Decision Tree Classifier
 
-## 📈 Features Used
+## Features Used
 - Study Hours Per Week
 - Attendance Rate
 - Previous Score
 
-## 🎯 Model Accuracy
-- Accuracy Achieved: 75%
+## Model Accuracy
+- 75%
 
-## 📊 Visualizations
+## Visualizations
 - Confusion Matrix Heatmap
 
-## 📁 Files Included
+---
+
+# 📁 Files Included
 - project.py
+- eda_project.py
 - ml_project.py
 - student_performance.csv
 
-## 🚀 Outcome
-Learned data preprocessing, visualization, supervised learning, model training, prediction, and evaluation.
+---
 
-## 👩‍💻 Author
+# 🎯 Outcome
+Learned data preprocessing, visualization, exploratory data analysis, supervised learning, model training, prediction, and evaluation.
+
+---
+
+# 👩‍💻 Author
 KANIMOZHI A
